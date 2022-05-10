@@ -9,4 +9,4 @@ if edad>=18:
 else:
   mensaje=(f"No puede votar porque su edad es {edad}")
 #Datos de Salida
-print(mensaje)
+print(mensaje) 
