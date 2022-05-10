@@ -1,3 +1,5 @@
+package TareaCondicionales;
+
 import java.util.Scanner;
 
 public class Ejercicio3_1 {

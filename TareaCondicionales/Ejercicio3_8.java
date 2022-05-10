@@ -2,7 +2,7 @@ package TareaCondicionales;
 
 import java.util.Scanner;
 
-public class ejercicio3_8 {
+public class Ejercicio3_8 {
     static Scanner lt=new Scanner(System.in);
     public static void main(String[] args) {
        //Declarar Variables

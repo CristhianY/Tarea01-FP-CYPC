@@ -2,7 +2,7 @@ package TareaCondicionales;
 
 import java.util.Scanner;
 
-public class ejercicio3_3 {
+public class Ejercicio3_3 {
     static Scanner lt=new Scanner(System.in);
 
     public static void main(String[] args) {
