@@ -1,3 +1,5 @@
+package ExamenU1;
+
 import java.util.Scanner;
 
 public class Problema5CYPC{
