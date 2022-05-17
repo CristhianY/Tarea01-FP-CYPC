@@ -2,7 +2,7 @@ package EstRepetitivasEx;
 
 import java.util.Scanner;
 
-pukatoblic class Ejercicio41 {
+public class Ejercicio41 {
   
     static Scanner lt=new Scanner(System.in);
 
